@@ -1,0 +1,1 @@
+try {if(window.mmGalileoCB && typeof window.mmGalileoCB === 'function') {window.mmGalileoCB(false);}}catch{}
